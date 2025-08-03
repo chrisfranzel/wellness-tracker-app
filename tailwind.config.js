@@ -5,3 +5,11 @@ export default {
   },
   plugins: [],
 };
+export default {
+  darkMode: 'class', // Add this line
+  content: ['./index.html', './**/*.jsx'],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
