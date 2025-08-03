@@ -74,7 +74,7 @@ export default function WellnessTrackerApp() {
     </div>
   );
 }
-import React, { useState } from 'react';
+
 import { motion } from 'framer-motion';
 import { Line } from 'react-chartjs-2';
 import {
